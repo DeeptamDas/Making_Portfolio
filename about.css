@@ -1,0 +1,76 @@
+
+body{
+    background-color: rgb(0, 0, 33);
+    color: white;
+    font-family: 'poppins',sans-serif;
+}
+*
+{
+    margin: 0;
+    padding: 0;
+}
+nav
+{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    height: 80px;
+    background-color: rgb(18, 18, 54);
+}
+nav ul
+{
+    display: flex;
+    justify-content: center;
+}
+nav ul li
+{
+    list-style: none;
+    margin: 0 23px;
+}
+nav ul li a
+{
+    text-decoration: none;
+    color: white;
+}
+nav ul li a:hover
+{
+    color: rgb(153, 153, 238);
+    font-size: 1.01rem;
+}
+
+.left
+{
+    font-size: 1.5rem;
+}
+
+
+
+
+.purple
+{
+    color: rgb(157, 82, 226);
+}
+#element
+{
+    color: rgb(157, 82, 226);
+}
+
+
+
+.About
+{
+    position: fixed;
+    
+    
+    top: 170px;
+    font-size: 35px;
+    left: 60px;
+}
+.About_2
+{
+   
+    position: relative;
+    top: 40px;
+    font-size: 30px;
+    
+}   

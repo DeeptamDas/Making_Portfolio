@@ -1,0 +1,109 @@
+
+body{
+    background-color: rgb(0, 0, 33);
+    color: white;
+    font-family: 'poppins',sans-serif;
+}
+*
+{
+    margin: 0;
+    padding: 0;
+}
+nav
+{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    height: 80px;
+    background-color: rgb(18, 18, 54);
+}
+nav ul
+{
+    display: flex;
+    justify-content: center;
+}
+nav ul li
+{
+    list-style: none;
+    margin: 0 23px;
+}
+nav ul li a
+{
+    text-decoration: none;
+    color: white;
+}
+nav ul li a:hover
+{
+    color: rgb(153, 153, 238);
+    font-size: 1.01rem;
+}
+
+.left
+{
+    font-size: 1.5rem;
+}
+
+
+
+
+.purple
+{
+    color: rgb(157, 82, 226);
+}
+#element
+{
+    color: rgb(157, 82, 226);
+}
+.p1
+{
+    border: 40px;
+    margin: 2px;
+    padding: 20px 30px;
+   
+}
+
+
+
+.project2
+{
+   
+    position: fixed;
+   
+    font-size: 35px;
+    left: -70px;
+    top: 130px;
+    display: flex;
+    padding: 110px 170px;
+}   
+.project1
+{
+    position: fixed;
+    font-size: 35px;
+    left: 40px;
+    top: 130px;
+    padding: 20px 60px;
+    display: flex;
+    border: 40px;
+    margin: 2px;
+  
+}
+.btn
+
+{
+    padding:12px;
+    background: #1e2167;
+    color: white;
+    border: 2px solid white;
+    border-radius: 6px;
+    font-size: 20px;
+    cursor: pointer;
+    
+}
+.line1
+{
+    width: 387px;
+}
+.line2
+{
+    width: 564px;
+}
